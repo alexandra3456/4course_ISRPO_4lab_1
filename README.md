@@ -1,1 +1,5 @@
-# WindowsFormsApp1
+# WindowsFormsApp1\
+
+
+
+ПРОЕКТ лАБы 4
